@@ -1,12 +1,12 @@
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Aleksandra</h3>
-
-<img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
+<h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Aleksandra</h1>
 
 <!-- About section -->
 ---
-#### More About Me:woman:
- I'm a frontend engineer and
+<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+
+<h3>More About Me:</h3>
+I'm a frontend engineer and
 
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: alexandra.bakhcheva@gmail.com
