@@ -27,7 +27,7 @@ My name is Aleksandra and I'm Software Engineer, keen on Frontend, based in Mosc
 --
 
 <!-- Contacts -->
-<h4 align="center">⭐️&nbsp If you have any questions or suggestions you can shoot me an email or contact me in telegram or linkedin</h4>
+<h4 align="center">⭐️&nbsp If you have any questions or suggestions you can shoot me an email or contact me in telegram/linkedin</h4>
 
 <p align="center">
   <a href="https://t.me/fromorningtonight" target="_blank">
