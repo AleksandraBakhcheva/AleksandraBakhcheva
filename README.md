@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h1><img alt="GIF" src="./hand.gif" width="50"> Hi there!</h1>
+<h1><img alt="GIF" src="./hand.gif" width="50">Hi there!</h1>
 
 <!-- About me -->
 
@@ -28,7 +28,31 @@ My name is Aleksandra and I'm Software Engineer, keen on Frontend, based in Mosc
 --
 
 <!-- Contacts -->
-<h4 align="center">📬 &nbsp If you have any questions or suggestions you can shoot me an email at: alexandra.bakhcheva@gmail.com</h4>
+<h4 align="center">⭐️&nbsp If you have any questions or suggestions you can shoot me an email or contact me in telegram or linkedin</h4>
+
+<p align="center">
+  <a href="https://t.me/fromorningtonight" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/telegram-2e3440.svg?&style=for-the-badge&logo=telegram">
+      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/telegram-eceff4.svg?&style=for-the-badge&logo=telegram">
+      <img alt="Telegram" src="https://img.shields.io/badge/telegram-eceff4.svg?&style=for-the-badge&logo=telegram">
+    </picture>
+  </a>&nbsp;
+  <a href="mailto:alexandra.bakhcheva@gmail.com" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/gmail-2e3440.svg?&style=for-the-badge&logo=gmail&logoColor=D14836">
+      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/gmail-eceff4.svg?&style=for-the-badge&logo=gmail&logoColor=D14836">
+      <img alt="Gmail" src="https://img.shields.io/badge/gmail-eceff4.svg?&style=for-the-badge&logo=gmail&logoColor=D14836">
+    </picture>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/aleksandra-bakhcheva-44148676/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/linkedin-2e3440.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/linkedin-eceff4.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+      <img alt="LindedIn" src="https://img.shields.io/badge/linkedin-eceff4.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+    </picture>
+  </a>&nbsp;
+</p>
 
 <h4 align="center">Please have a look at my projects below &nbsp⬇️</h4>
 <!-- End -->
