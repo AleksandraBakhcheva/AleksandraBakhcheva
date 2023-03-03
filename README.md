@@ -5,7 +5,7 @@
 
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
-My name is Aleksandra and I'm software engineer, keen on frontend, based in Moscow, Russia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I like to explore new technologies and develop software solutions. 
+My name is Aleksandra and I'm Software Engineer, keen on Frontend, based in Moscow, Russia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I like to explore new technologies and develop software solutions. 
 
 <h5>🌱 &nbsp I’m currently learning TypeScript and GraphQL</h5>
 <h5>📌 &nbsp Technologies I've been learning and using so far:</h5>
