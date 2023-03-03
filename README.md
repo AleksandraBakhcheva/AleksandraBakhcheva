@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there!</h1>
+<h1><img alt="GIF" src="./hand.gif" width="50"> Hi there!</h1>
 
 <!-- About me section -->
 ---
