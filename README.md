@@ -3,9 +3,7 @@
 
 <!-- About me -->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
-
 My name is Aleksandra and I'm Software Engineer, keen on Frontend, based in Moscow, Russia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I like to explore new technologies and develop software solutions. 
-
 <h5>🌱 &nbsp I’m currently learning TypeScript and GraphQL</h5>
 <h5>📌 &nbsp Technologies I've been learning and using so far:</h5>
 
@@ -28,7 +26,6 @@ My name is Aleksandra and I'm Software Engineer, keen on Frontend, based in Mosc
 
 <!-- Contacts -->
 <h4 align="center">⭐️&nbsp If you have any questions or suggestions you can shoot me an email or contact me in telegram/linkedin</h4>
-
 <p align="center">
   <a href="https://t.me/fromorningtonight" target="_blank">
     <picture>
@@ -53,5 +50,5 @@ My name is Aleksandra and I'm Software Engineer, keen on Frontend, based in Mosc
   </a>&nbsp;
 </p>
 
-<h4 align="center">Please have a look at my projects below &nbsp⬇️</h4>
 <!-- End -->
+<h4 align="center">Please have a look at my projects below &nbsp⬇️</h4>
