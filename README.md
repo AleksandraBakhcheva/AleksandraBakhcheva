@@ -24,10 +24,7 @@ My name is Aleksandra and I'm software engineer, keen on frontend, based in Mosc
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 
-
-
-
-
+<!-- Contacts -->
 <h5>📬 &nbsp If you have any questions or suggestions you can shoot me an email at: alexandra.bakhcheva@gmail.com</h5>
 - ⚡ Fun fact: ...
 - 
