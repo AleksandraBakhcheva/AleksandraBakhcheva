@@ -7,8 +7,8 @@
 
 My name is Aleksandra and I'm software engineer, keen on frontend, based in Moscow, Russia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I like to explore new technologies and develop software solutions. 
 
-<p>🌱 &nbsp I’m currently learning TypeScript</p>
-<h3>🛠 &nbsp Tech Stack</h3>
+<p>🌱 &nbsp I’m currently learning TypeScript and GraphQL</p>
+<h4>🛠 &nbsp Technologies I've been learning and using so far:</h4>
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
