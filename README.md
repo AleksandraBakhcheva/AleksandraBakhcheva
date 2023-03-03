@@ -38,7 +38,7 @@ My name is Aleksandra and I'm Software Engineer, keen on Frontend, based in Mosc
       <img alt="Telegram" src="https://img.shields.io/badge/telegram-eceff4.svg?&style=for-the-badge&logo=telegram">
     </picture>
   </a>&nbsp;
-  <a href="mailto:alexandra.bakhcheva@gmail.com" target="_blank">
+  <a href="mailto:alexandra.bakhcheva@gmail.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/gmail-2e3440.svg?&style=for-the-badge&logo=gmail&logoColor=D14836">
       <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/gmail-eceff4.svg?&style=for-the-badge&logo=gmail&logoColor=D14836">
