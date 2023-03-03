@@ -1,7 +1,7 @@
 <!-- Heading -->
 <h1><img alt="GIF" src="./hand.gif" width="50"> Hi there!</h1>
 
-<!-- About me section -->
+<!-- About me -->
 
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
@@ -28,6 +28,7 @@ My name is Aleksandra and I'm software engineer, keen on frontend, based in Mosc
 --
 
 <!-- Contacts -->
-<h5 align="center">📬 &nbsp If you have any questions or suggestions you can shoot me an email at: alexandra.bakhcheva@gmail.com</h5>
+<h4 align="center">📬 &nbsp If you have any questions or suggestions you can shoot me an email at: alexandra.bakhcheva@gmail.com</h4>
 
 <h4 align="center">Please have a look at my projects below &nbsp⬇️</h4>
+<!-- End -->
