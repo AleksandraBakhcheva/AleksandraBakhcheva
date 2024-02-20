@@ -8,6 +8,7 @@ My name is Aleksandra and I'm Software Engineer, keen on Frontend, based in Mosc
 <h5>📌 &nbsp Technologies I've been learning and using so far:</h5>
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
+![Vue](https://img.shields.io/badge/Vue.js-05122A?style=flat&logo=Vuedotjs)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=Typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=Javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
